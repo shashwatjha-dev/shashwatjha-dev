@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shashwat Jha 👋
 
-<!--
-**shashwatjha-dev/shashwatjha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate Full Stack Developer
+- Building projects using MERN Stack
+- Interested in Backend Development and System Design
+- Actively learning DSA and Advanced Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced Backend Development
+- System Design
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shashwatjha2026/
+
+## ⚡ Fun Fact
+I enjoy building real-world projects and continuously improving my development skills.
