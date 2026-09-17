@@ -17,29 +17,67 @@
 
 <div align="center">
 
-### 👨‍💻 Full Stack Developer | MERN Stack | Java
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=7C7CFF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Real-World+Web+Applications;Frontend+%E2%86%94+Backend+%E2%86%94+Database;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Who I Am
+
+Full Stack Developer focused on building  
+**practical, scalable & user-friendly applications.**
+
+I enjoy turning ideas into working products  
+and solving real-world problems through code.
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ What I Do
+
+🚀 Full Stack Web Development  
+⚛️ React.js Applications  
+⚙️ REST API Development  
+🗄️ Database Integration  
+🔐 Authentication & Authorization  
+🏗️ Backend Architecture
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-React.js%20%7C%20Redux-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-Java%20%7C%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+### 🔥 Current Focus
+
+<table>
+<tr>
+<td align="center">🧠<br/><b>DSA</b></td>
+<td align="center">⚛️<br/><b>Advanced React</b></td>
+<td align="center">🔷<br/><b>TypeScript</b></td>
+<td align="center">🤖<br/><b>RAG & AI/ML</b></td>
+<td align="center">🏗️<br/><b>System Design</b></td>
+</tr>
+</table>
+
+<br/>
+
+> 💡 <i>"I don't just write code — I build, debug, learn and improve."</i>
 
 </div>
 
-I'm a **Full Stack Developer** focused on building practical, scalable and user-friendly web applications. I enjoy working across the frontend and backend, designing REST APIs, integrating databases, and implementing secure authentication systems.
-
-- 💻 Building full-stack applications with **React.js, Node.js, Express.js & MongoDB**
-- 🐍 Working with **FastAPI & Python** for backend development
-- ☕ Strong foundation in **Java, OOPs, DSA & DBMS**
-- 🔐 Experienced with **JWT authentication, authorization & REST APIs**
-- 🏦 Built **NexusBank**, a digital banking platform with fraud detection and analytics
-- 🏠 Built **Wanderlust**, a travel accommodation platform
-- 🧠 Currently exploring **TypeScript, RAG & AI/ML fundamentals**
-- 🏗️ Learning **System Design, backend architecture & scalable applications**
-- 🚀 Always building, learning and improving through real-world projects
-
-<div align="center">
-
-`Code` • `Build` • `Learn` • `Improve`
-
-</div>
-
-
+---
 
 # 🛠️ Tech Stack
 
