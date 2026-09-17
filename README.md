@@ -150,16 +150,6 @@ property listings with authentication, reviews and location-based features.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatjha-dev&bg_color=0d1117&color=7c7cff&line=7c7cff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 # 💻 GitHub Profile Summary
 
 <div align="center">
