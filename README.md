@@ -2,7 +2,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHASHWAT%20JHA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn"/>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+JavaScript+%7C+React.js;Building+Real-World+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+
+</div>
+
+<br/>
 </div>
 # 👋 Hi, I'm Shashwat Jha
 
