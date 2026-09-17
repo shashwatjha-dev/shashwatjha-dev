@@ -94,23 +94,6 @@ A full-stack travel accommodation platform designed for property discovery, list
 - 📱 Responsive interface
 - 🗺️ Location-based listings
 
----
-
-### 📈 TradeX — Trading Platform
-
-A modern trading platform focused on portfolio management, transactions and real-time market-style interactions.
-
-**Tech Stack:** React.js • FastAPI • MongoDB • WebSockets
-
-**Key Features**
-
-- 📊 Trading dashboard
-- 💰 Portfolio management
-- ⚡ Real-time updates
-- 🔐 Secure authentication
-- 📈 Market data visualization
-
----
 
 ## 🧠 Currently Learning
 
