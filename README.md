@@ -1,46 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHASHWAT%20JHA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=SHASHWAT%20JHA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=21&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+JavaScript+%7C+React.js;Building+Real-World+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=7C7CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+JavaScript+%7C+React.js;Backend+%7C+REST+APIs+%7C+MongoDB;Building+Real-World+Applications;Exploring+RAG+%26+AI%2FML;Always+Learning+%26+Building+%F0%9F%9A%80"/>
 
 <br/><br/>
 
-# 👋 Hi, I'm Shashwat Jha
-
-### 💻 Full Stack Developer | MERN Stack | Java
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shashwatjha-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=shashwatjha-dev&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-- 💻 Full Stack Developer focused on building real-world web applications
-- ⚛️ Working with React.js, Node.js, Express.js and MongoDB
-- ☕ Strong foundation in Java, OOPs and Data Structures & Algorithms
-- 🔐 Interested in Authentication, REST APIs and Backend Development
-- 🧠 Exploring AI/ML fundamentals and RAG
-- 🏗️ Currently improving my knowledge of System Design and scalable applications
+<div align="center">
+
+💻 Full Stack Developer  
+⚛️ React.js + Node.js + Express.js  
+🐍 FastAPI + Python  
+🗄️ MongoDB + MySQL  
+☕ Java + DSA + OOPs  
+🔐 JWT Authentication & REST APIs  
+🧠 Exploring RAG & AI/ML Fundamentals  
+🏗️ Interested in Backend Development & System Design  
+
+</div>
+
+I enjoy building practical web applications, designing REST APIs,
+working with backend systems, and continuously improving my problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,31 +44,21 @@
 
 <br/><br/>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
 
 <br/><br/>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 <br/><br/>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/><br/>
-
-### 🔐 Core Concepts
-
-<img src="https://img.shields.io/badge/DSA-2C2C2C?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/OOPs-2C2C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-2C2C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-2C2C2C?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-2C2C2C?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -82,99 +66,197 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
+<br/><br/>
+
+### 🔐 Core Concepts
+
+<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/OOPs-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-181717?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Authentication-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authorization-181717?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏦 NexusBank — Digital Banking & Fraud Detection
+## 🏦 NexusBank — Digital Banking & Fraud Detection System
 
-A full-stack digital banking platform featuring secure authentication, transactions, fraud detection and analytics.
+A full-stack digital banking platform featuring secure authentication,
+transaction management, fraud detection and analytics.
 
-**Tech Stack:** React.js • FastAPI • MongoDB • JWT
+### ⚡ Tech Stack
 
-**Key Features**
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,mongodb" />
+
+</div>
+
+### 🔥 Key Features
 
 - 🔐 JWT-based authentication
+- 👤 User authentication & authorization
 - 💸 Secure money transfers
+- 🧾 Transaction management
 - 🛡️ Rule-based fraud detection
 - 🤖 ML-style weighted risk scoring
-- 📊 Transaction analytics
+- 📊 Fraud & transaction analytics
 - 👨‍💼 Admin dashboard
 - 🔔 Transaction alerts
+- 👤 Profile management
+- 🏆 Rewards system
 
 ---
 
-### 🏠 Wanderlust — Travel Accommodation Platform
+## 🏠 Wanderlust — Travel Accommodation Platform
 
-A full-stack travel accommodation platform designed for property discovery, listings and user interactions.
+A full-stack travel accommodation platform for discovering and managing
+property listings with authentication, reviews and location-based features.
 
-**Tech Stack:** JavaScript • Node.js • Express.js • MongoDB • EJS
+### ⚡ Tech Stack
 
-**Key Features**
+<div align="left">
 
-- 🏡 Property listings
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb" />
+
+</div>
+
+### 🔥 Key Features
+
+- 🏡 Create and manage property listings
 - 🔎 Search and filtering
 - 👤 User authentication
 - ⭐ Reviews and ratings
-- 📱 Responsive interface
 - 🗺️ Location-based listings
+- 📱 Responsive UI
+- 🔐 Protected routes
+- 🗄️ MongoDB database integration
 
 ---
 
-## 🧠 Currently Learning
+# 📊 GitHub Analytics
 
 <div align="center">
 
-`DSA` • `Advanced React` • `TypeScript` • `RAG` • `AI/ML` • `System Design`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashwatjha-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatjha-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashwatjha-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shashwatjha-dev&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashwatjha-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatjha-dev&bg_color=0d1117&color=7c7cff&line=7c7cff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwatjha-dev&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,python"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatjha-dev&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Fundamentals-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-6C63FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🎯 What I'm Working On
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatjha-dev&theme=tokyo-night&hide_border=true" />
+| 🚀 Focus Area | 📚 Current Goal |
+|---|---|
+| DSA | Strengthening problem solving |
+| React | Advanced React development |
+| TypeScript | Building type-safe applications |
+| RAG | Exploring Retrieval-Augmented Generation |
+| AI/ML | Understanding fundamentals |
+| Backend | Improving backend architecture |
+| System Design | Learning scalable system design |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# ⚡ Development Philosophy
+
+<div align="center">
+
+### Build → Break → Debug → Learn → Improve → Repeat
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shashwatjha2026/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/shashwatjha-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ⚡ Build • Learn • Improve • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+### 🚀 Keep Building. Keep Learning.
 
 </div>
