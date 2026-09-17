@@ -1,5 +1,9 @@
+
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHASHWAT%20JHA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn"/>
+
+</div>
 # 👋 Hi, I'm Shashwat Jha
 
 ### 💻 Full Stack Developer | MERN Stack | Java
