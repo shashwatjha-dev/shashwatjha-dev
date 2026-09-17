@@ -150,38 +150,6 @@ property listings with authentication, reviews and location-based features.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashwatjha-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatjha-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shashwatjha-dev&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashwatjha-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
