@@ -13,28 +13,33 @@
 </div>
 
 ---
-
-# 👋 About Me
+## 🚀 About Me
 
 <div align="center">
 
-💻 Full Stack Developer  
-⚛️ React.js + Node.js + Express.js  
-🐍 FastAPI + Python  
-🗄️ MongoDB + MySQL  
-☕ Java + DSA + OOPs  
-🔐 JWT Authentication & REST APIs  
-🧠 Exploring RAG & AI/ML Fundamentals  
-🏗️ Interested in Backend Development & System Design  
+### 👨‍💻 Full Stack Developer | MERN Stack | Java
 
 </div>
 
-I enjoy building practical web applications, designing REST APIs,
-working with backend systems, and continuously improving my problem-solving skills.
+I'm a **Full Stack Developer** focused on building practical, scalable and user-friendly web applications. I enjoy working across the frontend and backend, designing REST APIs, integrating databases, and implementing secure authentication systems.
 
----
+- 💻 Building full-stack applications with **React.js, Node.js, Express.js & MongoDB**
+- 🐍 Working with **FastAPI & Python** for backend development
+- ☕ Strong foundation in **Java, OOPs, DSA & DBMS**
+- 🔐 Experienced with **JWT authentication, authorization & REST APIs**
+- 🏦 Built **NexusBank**, a digital banking platform with fraud detection and analytics
+- 🏠 Built **Wanderlust**, a travel accommodation platform
+- 🧠 Currently exploring **TypeScript, RAG & AI/ML fundamentals**
+- 🏗️ Learning **System Design, backend architecture & scalable applications**
+- 🚀 Always building, learning and improving through real-world projects
 
->
+<div align="center">
+
+`Code` • `Build` • `Learn` • `Improve`
+
+</div>
+
+
 
 # 🛠️ Tech Stack
 
