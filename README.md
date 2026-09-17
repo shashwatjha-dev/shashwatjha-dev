@@ -17,63 +17,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=7C7CFF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Real-World+Web+Applications;Frontend+%E2%86%94+Backend+%E2%86%94+Database;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 👨‍💻 Who I Am
-
-Full Stack Developer focused on building  
-**practical, scalable & user-friendly applications.**
-
-I enjoy turning ideas into working products  
-and solving real-world problems through code.
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚡ What I Do
-
-🚀 Full Stack Web Development  
-⚛️ React.js Applications  
-⚙️ REST API Development  
-🗄️ Database Integration  
-🔐 Authentication & Authorization  
-🏗️ Backend Architecture
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Real-World+Web+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB;Java+%7C+DSA+%7C+Backend+Development;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend-React.js%20%7C%20Redux-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Language-Java%20%7C%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/💻_Full_Stack_Development-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️_React.js-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_Backend_Development-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗄️_Database_Development-181717?style=for-the-badge"/>
 
 <br/><br/>
 
-### 🔥 Current Focus
-
-<table>
-<tr>
-<td align="center">🧠<br/><b>DSA</b></td>
-<td align="center">⚛️<br/><b>Advanced React</b></td>
-<td align="center">🔷<br/><b>TypeScript</b></td>
-<td align="center">🤖<br/><b>RAG & AI/ML</b></td>
-<td align="center">🏗️<br/><b>System Design</b></td>
-</tr>
-</table>
-
-<br/>
-
-> 💡 <i>"I don't just write code — I build, debug, learn and improve."</i>
+I build full-stack web applications with a focus on clean architecture,  
+secure authentication, REST APIs, database integration and practical solutions.
 
 </div>
 
